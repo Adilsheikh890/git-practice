@@ -55,7 +55,8 @@ header nav ul li a:hover {
 
 /* Main content styling */
 main {
-    padding: 60px 20px; /* Ensure content doesn't overlap with fixed header */
+    padding: 60px 20px;
+    text: center; /* Ensure content doesn't overlap with fixed header */
 }
 
 /* Styling for the footer */
